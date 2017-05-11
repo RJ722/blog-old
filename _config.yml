@@ -31,7 +31,8 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: https://rj722.tech
+    external: true
   - title: About Me
     url: /about
 
