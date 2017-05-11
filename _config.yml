@@ -1,18 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: My experiences with GSoC 2017 and my poetry
+description: Here, I write about what I am currently doing for my GSoC Project, or any poetry, short shayaries (funny, sometimes ;P)
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://rj722.tech" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Rahul Jha
+user_description: Engineering Student, Python Developer, Learning Data Science
+user_title: Pythoneer
+email: rahul722j@gmail.com
+twitter_username: RJ722
+github_username:  RJ722
+gplus_username:  Rahul Jha
+disqus_username: RJ722
 
 # Build settings
 markdown: kramdown
@@ -32,10 +32,6 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
   - title: About Me
     url: /about
 
