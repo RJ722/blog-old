@@ -1,7 +1,7 @@
 # Site settings
 title: My experiences with GSoC 2017 and my poetry
 description: Here, I write about what I am currently doing for my GSoC Project, or any poetry, short shayaries (funny, sometimes ;P)
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rj722.tech" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
