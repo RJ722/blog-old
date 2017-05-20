@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "gsoc_project"
+title: "GSoC Project"
 date: 2017-05-20 17:46:35
 image: '/assets/img/'
 description: 'The project I would be working this (G) summer (oC)'
 tags:
+- GSoC
 categories:
-twitter_text: @rahul722j is working to make vulture awesome with @jendrikseipp and coala
+- GSoC
+twitter_text: '@rahul722j is working to make vulture awesome with @jendrikseipp and coala'
 ---
 
 #### Overview
