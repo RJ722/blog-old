@@ -1,17 +1,17 @@
 # Site settings
-title: GSoC 2017, poetry, stuff.
-description: Here, I write about what I am currently doing for my GSoC Project, or any poetry, short shayaries (funny, sometimes ;P)
+title: A blog where I write sometimes.
+description: What I am currently doing, my plans for GSoC Project, or any poetry/ short shayaries, project descriptions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rj722.tech" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Rahul Jha
-user_description: Engineering Student, Python Developer, Learning Data Science
-user_title: Software Developer, Loves Testing
-email: rahul722j@gmail.com
+user_description: Developer @vulture and @coala, @GSoC 2017
+user_title: Software Developer @vulture, @coala
+email: rahul@rj722.tech
 twitter_username: rahul722j
 github_username:  RJ722
-gplus_username:  115946858112306323669
+gplus_username:  +RahulJha722
 disqus_username: RJ722
 
 # Build settings
