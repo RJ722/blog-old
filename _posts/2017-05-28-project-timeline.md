@@ -73,4 +73,4 @@ Review the tests written so far and add relevant test cases.
 ### Week 12 (August 17 - 24)
 - Buffer week to complete any pending work, evaluate and review tasks completed, review documentation and test cases.
 
-Please drop by in the comments section, mail me @ rahul@rj722.tech or even awesome, send a PR to suggest any changes or queries you may have.
+Please drop by a message in the comments section, mail me @ [rahul@rj722.tech](rahul@rj722.tech) or even awesome, send a PR to suggest any changes or queries you may have.
