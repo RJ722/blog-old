@@ -3,7 +3,7 @@ layout: post
 title: "GSoC Project"
 date: 2017-05-20 17:46:35
 image: '/assets/img/'
-description: 'The project I would be working this (G) summer (oC)'
+description: 'The project I will be working this (G) summer (oC)'
 tags:
 - GSoC
 categories:
@@ -76,18 +76,18 @@ We would need to analyse every construct individually on a case by case basis. F
 
 The confidence value will be alike the ones given below: (The finer grained distinctions will need further discussion)
 
-|Construct 			    | Confidence Value |
+|Construct              | Confidence Value |
 |-----------------------|------------------|
-| `import`		   		|      100%		   |
+| `import`              |      100%        |
 | `from foo import *`	|      0%          |
-| `variable` 			|     <100%		   |
-| `function`            |     <100%		   |
+| `variable`            |     <100%        |
+| `function`            |     <100%        |
 | `class`               |     <100%        |
 | `if False`            |      100%        |
 
 References:
 
-- [vulture](https://gihtub.com/jendrikseipp/vulture)
+- [vulture](https://github.com/jendrikseipp/vulture)
 - [Original Project Proposal](https://docs.google.com/document/d/1gzRH-rdJsiAD-TOEB0O4OqtcnTp0zotcNl6agAuXGHw/edit?usp=sharing)
 
 ### Milestones
