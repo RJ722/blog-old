@@ -13,9 +13,9 @@ categories:
 twitter_text: Timeline for vulture project - by RJ722 (@rahul722j)
 ---
 ## Project Overview
-Presently, we have coala - an automatic code linter and vulture - dead code reporter. Now, since coala constitutes of fundamental `code checkers` known as `Bears`, there is a `VultureBear` which runs vulture over the input batch of files and prepares a patch for the respective files. The project proposal focuses on improving the VultureBear and making vulture available as a library rather than as command line tool.
+Presently, we have coala - an automatic code linter and vulture - dead code reporter. Amongst coala's fundamental `code checkers` known as `Bears`, there is a `VultureBear` which runs vulture over the input batch of files and prepares a patch for the respective files. The project proposal focuses on improving the VultureBear and making vulture available as a library rather than as command line tool.
 
-Full project description here: [GSoC Project I am working on this summer](https://rj722.tech/gsoc_project)
+Full project description can be found here: [GSoC Project I am working on this summer](https://rj722.tech/gsoc_project)
 
 ## Milestones
 
@@ -73,4 +73,4 @@ Review the tests written so far and add relevant test cases.
 ### Week 12 (August 17 - 24)
 - Buffer week to complete any pending work, evaluate and review tasks completed, review documentation and test cases.
 
-Please drop by a message in the comments section, mail me @ [rahul@rj722.tech](rahul@rj722.tech) or even awesome, send a PR to suggest any changes or queries you may have.
+Please drop by a message in the comments section, mail me @ [rahul@rj722.tech](malito:rahul@rj722.tech) or even awesome, send a PR to suggest any changes or queries you may have.
