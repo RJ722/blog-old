@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "RJ722 | Rahul Jha | GSoC Project Timeline"
+title: "GSoC Project Timeline"
 date: 2017-05-28 23:13:00
 image: '/assets/img/'
-description: Here is a description on How I am planning to manage my schedule during GSoC period
+description: Here is a description of how I plan to manage my schedule during GSoC period
 tags:
 - GSoC
 - Schedule
