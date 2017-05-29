@@ -30,8 +30,6 @@ The milestones are yet to be reviewed by my mentor ([@jendrikseipp](https://gith
 
 ### Community Bonding (May 5 - 30)
 - Finalize what should be implemented for source range acquisition on the basis of discussions during pre - community bonding period.
-- Implement API - At this point, we would have a fully functioning API, and we would be ready to incorporate these changes into the VultureBear.
-- Refactor VultureBear to incorporate API - This would be relatively easy as the API would have had until now respected it’s usage in the VultureBear.
 
 ### Week 1 & 2 (May 31 - June 13)
 - Implement API - At this point, we would have a fully functioning API, and we would be ready to incorporate these changes into the VultureBear.
