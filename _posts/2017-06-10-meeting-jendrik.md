@@ -17,7 +17,7 @@ twitter_text: '@RJ722 meets with his @jendrikseipp, please go through the full s
 
 A quite has happened since I last wrote, most important of which was a meeting with my mentor [@jendrikseipp](https://github.com/jendrikseipp), which by the way went awesome. Thank You! @jendrik
 
-## Meeting with my mentor @jendrikseipp
+## A meeting with my mentor @jendrikseipp
 
 A little overview - In the starting of the session, we had already discussed
 that we would be meeting weekly on Wednesdays at 3ish PM UTC +2:30 on
