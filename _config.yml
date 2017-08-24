@@ -10,8 +10,8 @@ user_description: Developer @vulture and @coala, @GSoC 2017
 user_title: Software Developer @vulture, @coala
 email: rahul@rj722.tech
 twitter_username: rahul722j
-github_username:  RJ722
-gplus_username:  +RahulJha722
+github_username: RJ722
+gplus_username: +RahulJha722
 disqus_username: RJ722
 
 # Build settings
@@ -31,8 +31,7 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: https://rj722.tech
-    external: true
+    url: /
   - title: About Me
     url: /about
 
