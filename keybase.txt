@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rj722
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rj722.tech
+  * I am rj722 (https://keybase.io/rj722) on keybase.
+  * I have a public key with fingerprint 1B67 094A DB30 F8E3 23AA  AE56 4495 7BA5 10AA 8D8D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013e882bdbd682891741ae2eea9f30573645ad647497090c6760602083b46798ff0a",
+      "fingerprint": "1b67094adb30f8e323aaae5644957ba510aa8d8d",
+      "host": "keybase.io",
+      "key_id": "44957ba510aa8d8d",
+      "kid": "01013e882bdbd682891741ae2eea9f30573645ad647497090c6760602083b46798ff0a",
+      "uid": "f4e830063578395bc0f1b726ba510019",
+      "username": "rj722"
+    },
+    "service": {
+      "hostname": "rj722.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517847877,
+  "expire_in": 157680000,
+  "prev": "7d3bfeb6fff08490419e37e2a2e6d802a42cc7f4ff93845f5226faa2f5df32cb",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIcAnicrVJbbA1BGD5HKcoJKhFa0WRDQh01Ozu7M3uibqHENcQtQk5mdmfa7eXs
+6Z5ttUqQc/BCJY0EQSQEiXhQryVuJ3GPtlKa1gsPDRJUpFTEZbYh8eDRvEzmm+/7
+/u//82cjOaG88OPa5+vf3tj+PfzwVktdaGvD/qVNCnPtRiXWpFTxoYtX2zzlx6sc
+W4kpQAWqxgmBzGa2QSAxVYxUyiHn1BQa0LFmIJ3aBsLIxMAEloENYAAIiMaQgU0i
+BKBKVBFOopx7Sc9J+NJWZYYkI2ozDQjCNahRSrluIGTqmFFdBZQSm9hSWOGmAoUM
+x2iKlziuxOQjPhTvH/z/nLtuyE4gTjQADE3HRDN1ZgGhMgyNodJANQNiinsJWsMl
+26vEECq7o4qE6h2LB1MN2vj7u8TnVoWUJT3Xdy23WuIVvp9MxQKd35gMiDs4i/+2
+iDMnYcsRSkU991KOm1BiqmRavhN4qrqKCcIE46jCG5KOx+NOwNCxQYA8QR1eLy2x
+rTHBmSFkewSZAKkm1zCHFHLDJgBSBC0LCySEqRGkCx1CQ1AKhW4LDVpMCZqqTbhK
+DMmYtFxappzyBPXrPK7svn1z2/BQOC+UO2JYsFqhvNHj/yzcJDQqdPjNLO3d8tae
+ws058xr6xsXm1maKw4Xlu14sIIXrZp7u/bEi0l2EROVPU9e7J6w51JeemCtODOSm
+Q3N3fhp7p11vnnN4auZR/Akp+ni+s7lpz4c9MytR6dNvbaMH21biHwUPHqdn5C9/
+ffFo573T+uTSdO+YjUeqruAL+/ovZY52vJl+sHiwxV04rauqf3YkfKM/Mqm57Pz7
+l6Vnoo9owaaX7RuKejqWEbKloH0se3U5Es2WHdg5oiV7d0nXtrNG+loGfvxyLrN4
+1fs5IxueZN2+jHo8u/r6FC9/7albV9+Zt3O+DoAwOzm/rN48tujZLlrTKdL8/ufG
+Oxdb3/ZN35st/AXzdDkM
+=FJKG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rj722
+
+==================================================================
