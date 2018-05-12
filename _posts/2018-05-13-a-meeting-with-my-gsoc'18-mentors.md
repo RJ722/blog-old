@@ -34,17 +34,17 @@ mobile phone, that sending an SMS took a couple hours.
 It was bound to happen, but I was lucky that exams were postponed from May 7 to May 12, and that we could reschedule the
 meeting to happen on May 7 now. Yay! :-)
 
-__May 7, 7:30 PM__: I'm all set with audio/video equipment and make a hangout call to my friend to ensure that everything
+_May 7, 7:30 PM_: I'm all set with audio/video equipment and make a hangout call to my friend to ensure that everything
 was indeed working. (Thanks [@proishan11](https://github.com/proishan11))
 
-__May 7, 7:35 PM__: I've already joined the call. Eagerly waiting for everyone!
+_May 7, 7:35 PM_: I've already joined the call. Eagerly waiting for everyone!
 
-__May 7, 7:48 PM__: I e-mail the hangout link to everyone and create a Google doc for notes and share it with everyone.
+_May 7, 7:48 PM_: I e-mail the hangout link to everyone and create a Google doc for notes and share it with everyone.
 
-__May 7, 7:55 PM__: Florian joins the call, tells me that he is sitting a StarBucks cafe right now and that he was on mobile
+_May 7, 7:55 PM_: Florian joins the call, tells me that he is sitting a StarBucks cafe right now and that he was on mobile
 and that he would be joining the call right back with his computer.
 
-__May 7, 8:00 PM__: Abdeali and Jendrik join the call, and that point marked the point where we embark on our journey of
+_May 7, 8:00 PM_: Abdeali and Jendrik join the call, and that point marked the point where we embark on our journey of
 GSoC 2018. Let me walk you through it.
 
 ## GSoC Kick-off
