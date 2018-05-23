@@ -1,8 +1,8 @@
 # Site settings
 title: Rahul's Diary - A blog where he cries sometimes.
 description: What I am currently doing, my plans for GSoC Project, or any poetry/ short shayaries, project descriptions.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://rj722.github.io/blog" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/blog-old" # the subpath of your site, e.g. /blog
+url: "https://rj722.github.io/blog-old" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Rahul Jha
